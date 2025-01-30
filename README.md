@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# gitoverflowpractice
+belongs to Weite Li wl2811
+
+
+# Interesting Article on Software Development
+
+I recently came across an article titled [The Future of Software Development](https://www.technewsworld.com/). This article discusses emerging trends in our field that are changing the future of how we develop software.
